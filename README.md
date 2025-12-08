@@ -1,4 +1,4 @@
-# 📊 INTERACTIVE- KPI TRACKER
+<img width="1433" height="807" alt="image" src="https://github.com/user-attachments/assets/ed97f85e-ba04-4b27-b4a4-a6e43a0c700a" /># 📊 INTERACTIVE- KPI TRACKER
 
 
 This project is an **interactive Excel dashboard** built using raw quarterly sales and customer data.   It allows stakeholders to monitor revenue, customer growth, and acquisition costs dynamically, with the ability to filter by quarter.  
@@ -11,7 +11,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 - To create a **dynamic reporting system** that updates automatically when new data is added.
 
 ## ✨ Dataset used
-<a > Quarterly Data and Dashboard</a>
+<a href="https://github.com/sakshigolambade/EXCEL/blob/main/Interactive%20KPI%20Project.xlsx"> Quarterly Data and Dashboard</a>
 
 ## 💡 Key Questions Answered
 1. How did the company perform in revenue compared to targets?  
@@ -21,7 +21,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 5. How is the **Customer Acquisition Cost (CAC)** evolving compared to the previous year?  
 
 ## ✨ Dashboard page
-<a >Dashboard link</a>
+<a href="https://github.com/sakshigolambade/EXCEL/blob/main/KPI%20DASHBOARD.png">Dashboard link</a>
 
 
 ## ✨ Process
@@ -60,4 +60,4 @@ The dashboard helps in identifying performance trends, comparing against targets
 
 
 ## 💡 Dashboard image:
-<img />
+<img width="1396" height="772" alt="KPI DASHBOARD" src="https://github.com/user-attachments/assets/KPI DASHBOARD" />
