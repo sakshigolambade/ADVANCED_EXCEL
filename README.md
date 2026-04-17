@@ -1,7 +1,7 @@
 # 📊 INTERACTIVE- KPI TRACKER
 
 
-This project is an **interactive Excel dashboard** built using raw quarterly sales and customer data.   It allows stakeholders to monitor revenue, customer growth, and acquisition costs dynamically, with the ability to filter by quarter.  
+This project is an **interactive Sales Performance dashboard** built using raw quarterly sales and customer data.   It allows stakeholders to monitor revenue, customer growth, and acquisition costs dynamically, with the ability to filter by quarter.  
 
 The dashboard helps in identifying performance trends, comparing against targets, and analyzing key business metrics in real time.
 
